@@ -15,4 +15,5 @@
 	Yasmin F, Hossain M, <b>Sarder A</b> and Bokshi B <br/>
 	<i> <b>Biosci Bioeng Commun (2016).</b></i> DOI: https://doi.org/10.18801/bbc.020219
         </li><br />
+	</ul>
 	
