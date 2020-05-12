@@ -1,19 +1,16 @@
-# amitsarder
-
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Badrul Arefin</title>
-  <meta name="description" content="">
-  <link rel="shortcut icon" type="image/png" href="/images/icon.png">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://badrul-arefin.github.io/">
-  <link rel="alternate" type="application/rss+xml" title="Badrul Arefin" href="https://badrul-arefin.github.io/feed.xml" />
+<title>Amit Sarder</title>
+<meta name="description" content="">
+<link rel="shortcut icon" type="image/png" href="/images/icon.png">
+<link rel="stylesheet" href="/css/main.css">
+<link rel="canonical" href="https://badrul-arefin.github.io/">
+<link rel="alternate" type="application/rss+xml" title="Badrul Arefin" href="https://badrul-arefin.github.io/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4' type='text/css' media='all' />
 <link href='https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic' rel='stylesheet' type='text/css'>
 </head>
