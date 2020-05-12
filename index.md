@@ -1,16 +1,19 @@
+#Amit Sarder
+
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Amit Sarder</title>
-<meta name="description" content="">
-<link rel="shortcut icon" type="image/png" href="/images/icon.png">
-<link rel="stylesheet" href="/css/main.css">
-<link rel="canonical" href="https://badrul-arefin.github.io/">
-<link rel="alternate" type="application/rss+xml" title="Badrul Arefin" href="https://badrul-arefin.github.io/feed.xml" />
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Publications</title>
+  <meta name="description" content="">
+  <link rel="shortcut icon" type="image/png" href="/images/icon.png">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://badrul-arefin.github.io/publications/">
+  <link rel="alternate" type="application/rss+xml" title="Badrul Arefin" href="https://badrul-arefin.github.io/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4' type='text/css' media='all' />
 <link href='https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic' rel='stylesheet' type='text/css'>
 </head>
@@ -93,49 +96,95 @@
 
     <div class="page-content">
       <div class="wrapper">        
-        <div class="home">
- 
- <i><b>Hello, welcome to my personal website!</b></i><br><br> 
- 
- <dl id="" class="wp-caption alignright" style="max-width: 300px">
+        <div class="post">
 
-<dt><a href=""><img class="" src="/images/pic_low2.jpg" alt="<b>Badrul Arefin</b><br>Postdoctoral researcher<br>Sahlgrenska Academy, Gothenburg University" /></a></dt>
+  <header class="post-header">
+    <h1 class="post-title">Publications</h1>
+  </header>
 
-<dd><b>Badrul Arefin</b><br>Postdoctoral researcher<br>Sahlgrenska Academy, Gothenburg University</dd>
-</dl>
+  <article class="post-content">
+    <ul>
+	<li>
+		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<b>Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</b></a><br /><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br /><i>
+		<b>Cell Reports (2019).</b></i>
   
-  
-  <p> This website was built mainly to describe my research profile to the like-minded and interested people. Please go to the 
-  respective sections to know more about my research and myself. On <a href="research">Research</a> page, I provided a link where I tried to describe my 
-  research works in relatively plain english that aimed at people who came from different background than biology.<br> 
-          
-<p> By the way, My name is Badrul Arefin, a postdoctoral fellow at the university of Gothenburg, Sweden. Currently I am working 
-  in cancer biology, more specifically in neuroblastoma, a childhood cancer that accounts for 15% of childhood cancer 
-  mortality. It is a disease which arises from the sympathetic nervous system. Our aim is to understand the key events that 
-  drive the neuroblastoma in mouse and Drosophila models at single cell resolution.<br>
+  </li><br />
+	<li>
+		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31367663"><b>Data on Drosophila clots and hemocyte morphologies using GFP-tagged secretory proteins: Prophenoloxidase and transglutaminase.</b></a><br />
+	Dziedziech A, Schmid M, <b>Arefin B</b>, Kienzle T, Krautz R, Theopold U.<br /><i>
+	<b>Data Brief (2019).</b></i>
+	
+  </li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<b>PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</b></a><br />
+	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br /><i>
+	<b>Development (2019).</b><br /></i>
+	* equal contribution
 
-</div>
-<br><b>Feel free to contact me for</b>
-<ul>
+</li><br />
+<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<b>Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</b></a><br />
+	Schmid MR*, Dziedziech A*, <b>Arefin B</b>*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br /><i>
+	<b>Insect Biochem Mol Biol (2019).</b><br /></i>
+	* equal contribution
+	
+ </li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<b>Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</b></a><br />
+	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br /><i>
+	<b>Scientific Reports (2018).</b><br /></i>
+	* equal contribution
+	
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28631995">	<b>Monitoring the effect of pathogenic nematodes on locomotion of Drosophila larvae.</b></a><br />
+	Kunc M, <b>Arefin B</b>, Hyrsl P, Theopold U.<br /><i>
+	<b>Fly (2017).</b></i><br />
+	
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<b>The Immune Phenotype of Three Drosophila Leukemia Models.</b></a><br />
+	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br /><i>
+	<b>G3: Genes, Genome, Genetics (2017).</b></i><br />
+	
+	
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26694862">	<b>The Drosophila Chitinase-Like Protein IDGF3 Is Involved in Protection against Nematodes and in Wound Healing.</b></a><br />
+	Kucerova L, Broz V, <b>Arefin B</b>, Maaroufi HO, Hurychova J, Strnad H, Zurovec M, Theopold U.<br /><i>
+	<b>J Innate Immun (2016).</b></i><b>(Journal cover page)</b><br />
+	
+	
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26322507">	<b>Apoptosis in Hemocytes Induces a Shift in Effector Mechanisms in the Drosophila Immune System and Leads to a Pro-Inflammatory State.</b></a><br />
+	<b>Arefin B</b>, Kucerova L, Krautz R, Kranenburg H, Parvin F, Theopold U.<br /><i>
+	<b>PLoS One (2015).</b></i><br />
+	
+	
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/25071815">	<b>Damage signals in the insect immune response.</b></a><br />
+	Krautz R, <b>Arefin B</b>, Theopold U.<br /><i>
+	<b>Front Plant Sci (2014).</b></i><br />	
+	
+	
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</b></a><br />
+	<b>Arefin B</b>*, Kucerova L*, Dobes P, Markus R, Strnad H, Wang Z, Hyrsl P, Zurovec M, Theopold U.<br /><i>
+	<b>J Innate Immun (2014).</b></i> <b>(Journal cover page)</b><br />
+	* equal contribution<br /><br />
 
-   <li> Initiating a collaboration
-   <li> Mentoring undergraduate/PhD students
-   <li> Peer review work
-   <li> Any positive initiative towards science
-   <li> Or simply talk about science!<br><br>
-</ul>    
+<h2> Invited Book Chapter</h2>
+(Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell).
+</li><br />
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br /><b>Arefin B*.</b>, Bahrampour S*., Cobeta I.M*., Curt J.R*., Yaghmaeian B.S*., Baumgardt M*., Benito-Sipos J., and Thor S. <b><br /> (In Press).</b> <br /> * equal contribution	
+	
+</li></ul>
 
-<h2>Updates</h2>
-<div class="updates">
-<ul>
- <li> April 16, 2020<br> Very thankful after having the decision from <a href="https://www.barncancerfonden.se/for-forskare/forskningsanslag/beviljade-forskningsanslag-och-tjanster/">
-  Barncancerfonden </a> (Swedish Childhood Cancer Foundation) 
-  that my application has been granted and this time it is for 2 years postdoctoral research. Many thanks to my supervisors and 
-  their labs, and of course, to Barncancerfonden!<br><br>
-<li> March 17, 2020<br> This year <a href="https://www.cancerfonden.se/forskning/for-forskare/samtliga-anslagsbeslut">
-  Cancerfonden (Cancer Foundation) </a> granted 7 applications (out of 57) for 3 years postdoctoral research, fortunately my application was one 
-  of them! Very thankful to Cancerfonden, my supervisors and the respective labs! 
-</ul>
+  </article>
 
 </div>
 
