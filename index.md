@@ -31,7 +31,7 @@
 <ul>
 	<li>
 	<a href="https://www.journalbinet.com/uploads/2/1/0/0/21005390/030115_tissue_factor_and_breast_cancer.pdf"> <b>Tissue Factor and Breast Cancer.</b></a><br />
-	<b>Sarder A</b> Ali MK and Pokharel YR<br/>
+	<b>Sarder A</b>, Ali MK and Pokharel YR<br/>
 	<i> <b>Biosci Bioeng Commun (2015).</b></i> 
         </li><br />
 </ul>
