@@ -1,4 +1,3 @@
-# index.html
 <header class="post-header">
     <h1 class="post-title">Publications</h1>
 </header>
