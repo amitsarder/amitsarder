@@ -1,3 +1,4 @@
+<html>
 <header class="post-header">
     <h1 class="post-title">Publications</h1>
 </header>
@@ -43,3 +44,5 @@
 	<i> <b>Biomed Res Ther (2015).</b></i> 
         </li><br />
 </ul>
+
+</html>
